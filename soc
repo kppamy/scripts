@@ -1,0 +1,34 @@
+10:19:56.051223 IP Broadcom.Home.36616 > 192.168.1.3.12345: Flags [.], ack 20728, win 913, options [nop,nop,TS val 428386999 ecr 41137659], length 0
+10:19:56.111847 IP Broadcom.Home.36616 > 192.168.1.3.12345: Flags [.], ack 20732, win 913, options [nop,nop,TS val 428387059 ecr 41137684], length 0
+10:19:56.890449 IP Broadcom.Home.36616 > 192.168.1.3.12345: Flags [P.], seq 41454:41455, ack 20732, win 913, options [nop,nop,TS val 428387838 ecr 41137684], length 1
+10:19:56.890960 IP Broadcom.Home.36616 > 192.168.1.3.12345: Flags [P.], seq 41455:41458, ack 20732, win 913, options [nop,nop,TS val 428387838 ecr 41137879], length 3
+10:19:56.891420 IP Broadcom.Home.36616 > 192.168.1.3.12345: Flags [P.], seq 41458:41461, ack 20732, win 913, options [nop,nop,TS val 428387839 ecr 41137879], length 3
+10:19:56.891772 IP Broadcom.Home.36616 > 192.168.1.3.12345: Flags [P.], seq 41461:41463, ack 20732, win 913, options [nop,nop,TS val 428387839 ecr 41137879], length 2
+10:19:56.892184 IP Broadcom.Home.36616 > 192.168.1.3.12345: Flags [P.], seq 41463:41465, ack 20732, win 913, options [nop,nop,TS val 428387840 ecr 41137879], length 2
+10:19:56.892618 IP Broadcom.Home.36616 > 192.168.1.3.12345: Flags [P.], seq 41465:41468, ack 20732, win 913, options [nop,nop,TS val 428387840 ecr 41137879], length 3
+10:19:56.892940 IP Broadcom.Home.36616 > 192.168.1.3.12345: Flags [P.], seq 41468:41470, ack 20732, win 913, options [nop,nop,TS val 428387840 ecr 41137879], length 2
+10:19:56.893306 IP Broadcom.Home.36616 > 192.168.1.3.12345: Flags [P.], seq 41470:41471, ack 20732, win 913, options [nop,nop,TS val 428387841 ecr 41137879], length 1
+10:19:56.893615 IP Broadcom.Home.36616 > 192.168.1.3.12345: Flags [P.], seq 41471:41474, ack 20732, win 913, options [nop,nop,TS val 428387841 ecr 41137879], length 3
+10:19:56.893922 IP Broadcom.Home.36616 > 192.168.1.3.12345: Flags [P.], seq 41474:41476, ack 20732, win 913, options [nop,nop,TS val 428387841 ecr 41137879], length 2
+10:19:56.894281 IP Broadcom.Home.36616 > 192.168.1.3.12345: Flags [P.], seq 41476:41477, ack 20732, win 913, options [nop,nop,TS val 428387842 ecr 41137879], length 1
+10:19:56.894605 IP Broadcom.Home.36616 > 192.168.1.3.12345: Flags [P.], seq 41477:41480, ack 20732, win 913, options [nop,nop,TS val 428387842 ecr 41137879], length 3
+10:19:56.894921 IP Broadcom.Home.36616 > 192.168.1.3.12345: Flags [P.], seq 41480:41481, ack 20732, win 913, options [nop,nop,TS val 428387842 ecr 41137880], length 1
+10:19:56.895307 IP Broadcom.Home.36616 > 192.168.1.3.12345: Flags [P.], seq 41481:41483, ack 20732, win 913, options [nop,nop,TS val 428387843 ecr 41137880], length 2
+10:19:56.895689 IP Broadcom.Home.36616 > 192.168.1.3.12345: Flags [P.], seq 41483:41486, ack 20732, win 913, options [nop,nop,TS val 428387843 ecr 41137880], length 3
+10:19:56.896064 IP Broadcom.Home.36616 > 192.168.1.3.12345: Flags [P.], seq 41486:41488, ack 20732, win 913, options [nop,nop,TS val 428387843 ecr 41137880], length 2
+10:19:56.897443 IP Broadcom.Home.36616 > 192.168.1.3.12345: Flags [P.], seq 41488:41496, ack 20732, win 913, options [nop,nop,TS val 428387845 ecr 41137880], length 8
+10:19:56.897855 IP Broadcom.Home.36616 > 192.168.1.3.12345: Flags [P.], seq 41496:41498, ack 20732, win 913, options [nop,nop,TS val 428387845 ecr 41137880], length 2
+10:19:56.898377 IP Broadcom.Home.36616 > 192.168.1.3.12345: Flags [P.], seq 41498:41500, ack 20732, win 913, options [nop,nop,TS val 428387846 ecr 41137880], length 2
+10:19:56.898936 IP Broadcom.Home.36616 > 192.168.1.3.12345: Flags [P.], seq 41500:41504, ack 20732, win 913, options [nop,nop,TS val 428387846 ecr 41137881], length 4
+10:19:56.899379 IP Broadcom.Home.36616 > 192.168.1.3.12345: Flags [P.], seq 41504:41507, ack 20732, win 913, options [nop,nop,TS val 428387847 ecr 41137881], length 3
+10:19:56.899740 IP Broadcom.Home.36616 > 192.168.1.3.12345: Flags [P.], seq 41507:41509, ack 20732, win 913, options [nop,nop,TS val 428387847 ecr 41137881], length 2
+10:19:56.900163 IP Broadcom.Home.36616 > 192.168.1.3.12345: Flags [P.], seq 41509:41511, ack 20732, win 913, options [nop,nop,TS val 428387848 ecr 41137881], length 2
+10:19:56.900533 IP Broadcom.Home.36616 > 192.168.1.3.12345: Flags [P.], seq 41511:41514, ack 20732, win 913, options [nop,nop,TS val 428387848 ecr 41137881], length 3
+10:19:56.900876 IP Broadcom.Home.36616 > 192.168.1.3.12345: Flags [P.], seq 41514:41516, ack 20732, win 913, options [nop,nop,TS val 428387848 ecr 41137881], length 2
+10:19:56.901296 IP Broadcom.Home.36616 > 192.168.1.3.12345: Flags [P.], seq 41516:41518, ack 20732, win 913, options [nop,nop,TS val 428387849 ecr 41137881], length 2
+10:19:56.901595 IP Broadcom.Home.36616 > 192.168.1.3.12345: Flags [P.], seq 41518:41520, ack 20732, win 913, options [nop,nop,TS val 428387849 ecr 41137881], length 2
+10:19:56.906670 IP Broadcom.Home.36616 > 192.168.1.3.12345: Flags [.], ack 20748, win 913, options [nop,nop,TS val 428387854 ecr 41137883], length 0
+10:19:56.911478 IP Broadcom.Home.36616 > 192.168.1.3.12345: Flags [P.], seq 41520:41521, ack 20748, win 913, options [nop,nop,TS val 428387859 ecr 41137883], length 1
+10:19:56.950725 IP Broadcom.Home.36616 > 192.168.1.3.12345: Flags [P.], seq 41521:41530, ack 20748, win 913, options [nop,nop,TS val 428387898 ecr 41137894], length 9
+10:19:56.959811 IP Broadcom.Home.36616 > 192.168.1.3.12345: Flags [P.], seq 41530:41531, ack 20782, win 913, options [nop,nop,TS val 428387907 ecr 41137894], length 1
+10:19:56.998696 IP Broadcom.Home.36616 > 192.168.1.3.12345: Flags [P.], seq 41531:41539, ack 20782, win 913, options [nop,nop,TS val 428387946 ecr 41137906], length 8
